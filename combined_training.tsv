@@ -1,0 +1,683 @@
+species	gene_id	male_expr	female_expr	annotation	in_SDR	label
+kiwi	kiwi151209_m20_contig_9:g1.t1	0	0	Plant invertase/pectin methylesterase	1	0
+kiwi	kiwi151209_m20_contig_25:g2.t1	0.22	0	APRR5, PRR5 | pseudo-response regulator	1	0
+kiwi	kiwi151209_m20_contig_38:g3.t1	0.3	0.12	Ribosomal protein S5/Elongation factor	1	0
+kiwi	kiwi151209_m20_contig_40:g4.t1	0.08	0	Rho GTPase activating protein	1	0
+kiwi	kiwi151209_m20_contig_59:g5.t1	0.44	0.13	RNA-binding (RRM/RBD/RNP motifs) family	1	0
+kiwi	kiwi151209_m20_contig_92:g6.t1	0	0	PGP6 | P-glycoprotein 6	1	0
+kiwi	kiwi151209_m20_contig_98:g7.t1	0.33	0.03	MuDR family transposase	1	0
+kiwi	kiwi151209_m20_contig_105:g8.t1	3.22	4.02	RBCL | ribulose-bisphosphate carboxylase	1	0
+kiwi	kiwi151209_m20_contig_154:g9.t1	2.4	3.66	ATPB, PB | ATP synthase subunit beta	1	0
+kiwi	kiwi151209_m20_contig_155:g10.t1	0	0.06	Biotin/lipoate A/B protein ligase	1	0
+kiwi	kiwi151209_m20_contig_182:g11.t1	1.49	2.96	ATPB, PB | ATP synthase subunit beta	1	0
+kiwi	kiwi151209_m20_contig_229:g12.t1	0.46	0.35	Tetratricopeptide repeat (TPR)-like	1	0
+kiwi	kiwi151209_m20_contig_229:g13.t1	0.27	0.18	unknown protein; Has 52	1	0
+kiwi	kiwi151209_m20_contig_248:g14.t1	0	0	HPR, ATHPR1 | hydroxypyruvate reductase	1	0
+kiwi	kiwi151209_m20_contig_256:g15.t1	0.31	0.05	scramblase-related	1	0
+kiwi	kiwi151209_m20_contig_263:g16.t1	0.36	0.02	ORF158 | DNA/RNA polymerases superfamily	1	0
+kiwi	kiwi151209_m20_contig_267:g17.t1	0.14	0	F-box/RNI-like superfamily protein	1	0
+kiwi	kiwi151209_m20_contig_322:g18.t1	0	0.08	Cysteine/Histidine-rich C1 domain	1	0
+kiwi	kiwi151209_m20_contig_338:g19.t1	1.23	0.62	GAG/POL/ENV polyprotein	1	0
+kiwi	kiwi151209_m20_contig_408:g20.t1	10.24	6.66	CPK23 | calcium-dependent protein kinase	1	0
+kiwi	kiwi151209_m20_contig_496:g21.t1	0.23	0.01	Plant protein of unknown function	1	0
+kiwi	kiwi151209_m20_contig_524:g22.t1	1.38	0.6	Zinc knuckle (CCHC-type) family	1	0
+kiwi	kiwi151209_m20_contig_545:g23.t1	0.38	0.02	SKS2 | SKU5 similar 2	1	0
+kiwi	kiwi151209_m20_contig_545:g24.t1	0.19	0	ARR24, RR24 | response regulator 24	1	1
+kiwi	kiwi151209_m20_contig_578:g25.t1	0.34	0.28	INO80, ATINO80 | INO80 ortholog	1	0
+kiwi	kiwi151209_m20_contig_621:g26.t1	1.65	0	Fasciclin-like arabinogalactan family	1	1
+kiwi	kiwi151209_m20_contig_624:g27.t1	0.09	0.01	Translation elongation factor EF1B	1	0
+kiwi	kiwi151209_m20_contig_679:g28.t1	0.04	0	PIN domain-like family protein	1	0
+kiwi	kiwi151209_m20_contig_743:g29.t1	0.44	0.1	ATRAB5A, ATRABF2A | Rab5-related gene	1	0
+kiwi	kiwi151209_m20_contig_930:g30.t1	0.16	0.02	Protein of unknown function (DUF295)	1	0
+kiwi	kiwi151209_m20_contig_951:g31.t1	0	0	SEC | Tetratricopeptide repeat (TPR)-like	1	0
+kiwi	kiwi151209_m20_contig_962:g32.t1	0.08	0.04	Ca2+regulated serine-threonine protein	1	0
+kiwi	kiwi151209_m20_contig_1037:g33.t1	0.44	0.12	RING/U-box superfamily protein	1	0
+kiwi	kiwi151209_m20_contig_1060:g34.t1	0.12	0	RNA-directed DNA polymerase	1	0
+kiwi	kiwi151209_m20_contig_1070:g35.t1	0.5	0.29	Disease resistance protein (CC-NBS-LRR)	1	0
+kiwi	kiwi151209_m20_contig_1092:g36.t1	3.82	2.7	ATX1, SDG27 | homologue of trithorax	1	0
+kiwi	kiwi151209_m20_contig_1107:g37.t1	0.91	0.45	ORF158 | DNA/RNA polymerases superfamily	1	0
+kiwi	kiwi151209_m20_contig_1148:g38.t1	0.42	0	VDAC3 | voltage dependent anion channel	1	0
+kiwi	kiwi151209_m20_contig_1182:g39.t1	0.21	0.09	NA	1	0
+kiwi	kiwi151209_m20_contig_1217:g40.t1	0.17	0.05	JMJD5 | 2-oxoglutarate (2OG) and Fe(II)-oxygenases	1	0
+kiwi	kiwi151209_m20_contig_1263:g41.t1	0	0	Cation transporter/ E1-E2 ATPase family	1	0
+kiwi	kiwi151209_m20_contig_1434:g42.t1	0.18	0.07	NA	1	0
+kiwi	kiwi151209_m20_contig_1436:g43.t1	0	0	Protein of unknown function (DUF1216)	1	0
+kiwi	kiwi151209_m20_contig_1494:g44.t1	0.03	0.16	unknown protein	1	0
+kiwi	kiwi151209_m20_contig_1494:g45.t1	6.81	9.35	MGP3 | male gametophyte defective 3	1	0
+kiwi	kiwi151209_m20_contig_1724:g46.t1	0	0	FT | PEBP (phosphatidylethanolamine-binding)	1	0
+kiwi	kiwi151209_m20_contig_1854:g47.t1	0.24	0.06	Cysteine/Histidine-rich C1 domain family	1	0
+kiwi	kiwi151209_m20_contig_1986:g48.t1	5.97	11.27	NA	1	0
+kiwi	kiwi151209_m20_contig_2004:g49.t1	0	0	F-box family protein	1	0
+kiwi	kiwi151209_m20_contig_2011:g50.t1	0.28	0.03	RRF, HFP108 | ribosome recycling factor	1	0
+kiwi	kiwi151209_m20_contig_2206:g51.t1	0.21	0.04	AT-HF, HISN4 | HIS HF	1	0
+kiwi	kiwi151209_m20_contig_2243:g52.t1	0.16	0	CCR3, ATCRR3 | CRINKLY4 related 3	1	0
+kiwi	kiwi151209_m20_contig_2578:g53.t1	0.03	0.08	Tetratricopeptide repeat (TPR)-like	1	0
+kiwi	kiwi151209_m20_contig_2616:g54.t1	0.76	0.95	Disease resistance protein (TIR-NBS-LRR)	1	0
+kiwi	kiwi151209_m20_contig_2826:g55.t1	1.58	1.07	Transmembrane proteins 14C	1	0
+kiwi	kiwi151209_m20_contig_2924:g56.t1	0.08	0	TGA6, BZIP45 | TGACG motif-binding factor	1	0
+kiwi	kiwi151209_m20_contig_3379:g57.t1	0	0	F-box and associated interaction domain	1	0
+kiwi	kiwi151209_m20_contig_3626:g58.t1	0	0	RCP1, MEX1 | root cap 1 (RCP1)	1	0
+kiwi	kiwi151209_m20_contig_3804:g59.t1	0	0	Protein of unknown function (DUF1163)	1	0
+kiwi	kiwi151209_m20_contig_3872:g60.t1	0	0	Kinase interacting (KIP1-like) family	1	0
+kiwi	kiwi151209_m20_contig_3940:g61.t1	0.03	0	transducin family protein / WD-40 repeat	1	0
+kiwi	Acc22078.1	6.06	0.79	TSO2, ATTSO2	0	0
+kiwi	Acc02105.1	3.1	0.37	IBR10, ATECI2, ECI2, ECHIB, PEC12	0	0
+kiwi	Acc29816.1	4.18	0.64	DEL1, E2L3, E2FE	0	0
+kiwi	Acc23350.1	1.76	21.06		0	0
+kiwi	Acc01225.1	5.24	1.13	MRH3, BST1, DER4	0	0
+kiwi	Acc17794.1	67.12	2.14		0	0
+kiwi	Acc13477.1	3.61	0.66		0	0
+kiwi	Acc14927.1	7.01	1.66		0	0
+kiwi	Acc24741.1	10.88	4.03		0	0
+kiwi	Acc24019.1	12.75	4.07		0	0
+kiwi	Acc28464.1	15.21	6.11		0	0
+kiwi	Acc13986.1	4.22	1.22		0	0
+kiwi	Acc18343.1	7.12	1.82	ATRPA70B, RPA70B	0	0
+kiwi	Acc21103.1	1.65	0.32	UGT73B3	0	0
+kiwi	Acc27496.1	6.01	1.74		0	0
+kiwi	Acc28184.1	1.02	0.09		0	0
+kiwi	Acc31257.1	1.63	0.42	PHO1;H1	0	0
+kiwi	Acc26447.1	3.89	1.61		0	0
+kiwi	Acc13203.1	2.75	0.98		0	0
+kiwi	Acc14090.1	1.53	0.3		0	0
+kiwi	Acc15608.1	3.96	1.3	CIP1	0	0
+kiwi	Acc19788.1	0.92	12.77		0	0
+kiwi	Acc31647.1	3.52	1.35		0	0
+kiwi	Acc32283.1	4.65	1.59		0	0
+kiwi	Acc10059.1	2.92	0.76	RLP9	0	0
+kiwi	Acc29667.1	1.11	0.21		0	0
+kiwi	Acc31650.1	15.38	6.56	SWA1, EDA13, EDA19	0	0
+kiwi	Acc18575.1	21.05	10.06	ORF158	0	0
+kiwi	Acc28342.1	5	2.02		0	0
+kiwi	Acc19957.1	1.63	0.46		0	0
+kiwi	Acc24910.1	6.72	3		0	0
+kiwi	Acc11663.1	2.36	22.39	EXL2	0	0
+kiwi	Acc00694.1	1.18	0.25	AtRLP1, RLP1	0	0
+kiwi	Acc29498.1	4.88	1.57		0	0
+kiwi	Acc02256.1	1.63	0.41	TBL19	0	0
+kiwi	Acc33091.1	8.17	3.53		0	0
+kiwi	Acc00125.1	4.4	1.55		0	0
+kiwi	Acc00600.1	1.66	0.49	BAS1, CYP734A1, CYP72B1	0	0
+kiwi	Acc02653.1	1.26	0.33		0	0
+kiwi	Acc03541.1	14.71	6.98	CRK8	0	0
+kiwi	Acc07843.1	4.43	1.53		0	0
+kiwi	Acc08805.1	1.02	0.28		0	0
+kiwi	Acc15922.1	22.46	11		0	0
+kiwi	Acc18609.1	12.16	5.78		0	0
+kiwi	Acc24016.1	4.36	1.85		0	0
+kiwi	Acc33026.1	4.9	1.54		0	0
+kiwi	Acc24562.1	17.29	247.58	BXL1, ATBXL1	0	0
+kiwi	Acc20479.1	1.78	0.41		0	0
+kiwi	Acc24742.1	23.45	11.39		0	0
+kiwi	Acc04665.1	3.82	1.42	BLH2, SAW1	0	0
+kiwi	Acc18659.1	1.19	0.19		0	0
+kiwi	Acc16057.1	5.84	1.91		0	0
+kiwi	Acc26925.1	4.78	1.83		0	0
+kiwi	Acc06511.1	4.42	1.34	ATTPS1, TPS1	0	0
+kiwi	Acc06438.1	14.37	7.38		0	0
+kiwi	Acc10104.1	1.15	0.29		0	0
+kiwi	Acc01442.1	4.62	37.48		0	0
+kiwi	Acc20835.1	2.14	0.77		0	0
+kiwi	Acc18495.1	37.96	19.38	CRK8	0	0
+kiwi	Acc00053.1	4.68	1.9	IMK2	0	0
+kiwi	Acc02315.1	2.07	0.7	UGT88A1	0	0
+kiwi	Acc13682.1	2.05	0.48		0	0
+kiwi	Acc01263.1	2.04	0.62	PUB25	0	0
+kiwi	Acc19156.1	1.1	0.28		0	0
+kiwi	Acc02399.1	1.74	0.53		0	0
+kiwi	Acc09308.1	2.56	0.87	MYB83, AtMYB83	0	0
+kiwi	Acc12879.1	1.47	0.4	ATGLR2.8, GLR2.8	0	0
+kiwi	Acc13840.1	3.15	1.09		0	0
+kiwi	Acc25258.1	2.37	0.88		0	0
+kiwi	Acc32063.1	1.63	0.51	PUB24	0	0
+kiwi	Acc06831.1	11.74	5.69		0	0
+kiwi	Acc13779.1	8.94	4.82		0	0
+kiwi	Acc02232.1	43.32	20.97	CRK8	0	0
+kiwi	Acc19497.1	10.51	5.38		0	0
+kiwi	Acc30443.1	10.7	4.31	CMT3	0	0
+kiwi	Acc26295.1	6.32	3.23	CYP71B37	0	0
+kiwi	Acc28127.1	1.67	0.52	ATPUP10, PUP10	0	0
+kiwi	Acc01693.1	1.67	0.47		0	0
+kiwi	Acc05285.1	7.34	3.27	CRK8	0	0
+kiwi	Acc06585.1	2.56	0.68	ATPMEPCRB	0	0
+kiwi	Acc18614.1	35.59	19.88		0	0
+kiwi	Acc05425.1	1.51	0.38	WBC11, ABCG11, DSO, COF1, ATWBC11	0	0
+kiwi	Acc18692.1	14.18	7.68		0	0
+kiwi	Acc11901.1	3.46	1.02		0	0
+kiwi	Acc30420.1	4.21	2.1		0	0
+kiwi	Acc09188.1	1.4	0.3		0	0
+kiwi	Acc29423.1	4.83	2.15		0	0
+kiwi	Acc06843.1	3.78	1.7		0	0
+kiwi	Acc12153.1	1.98	0.66	CYCD2;1	0	0
+kiwi	Acc15925.1	13	6.27		0	0
+kiwi	Acc00881.1	2.7	1.1	HKT1, ATHKT1	0	0
+kiwi	Acc12988.1	3.82	37.99		0	0
+kiwi	Acc19629.1	1.79	0.64		0	0
+kiwi	Acc25261.1	1.16	0.26		0	0
+kiwi	Acc28254.1	41.2	20.15		0	0
+kiwi	Acc31722.1	2.1	0.53		0	0
+kiwi	Acc32516.1	1.79	0.43		0	0
+kiwi	Acc09149.1	2.99	1.34		0	0
+kiwi	Acc17167.1	1.8	0.72	NRT1.5	0	0
+kiwi	Acc32255.1	1.42	0.5		0	0
+kiwi	Acc13740.1	1.52	0.5	TPS21	0	0
+kiwi	Acc00029.1	3.89	1.71		0	0
+kiwi	Acc30381.1	1.38	0.33		0	0
+kiwi	Acc25188.1	4.4	1.78		0	0
+kiwi	Acc13971.1	10.59	5.65	ATGPAT1, GPAT1	0	0
+kiwi	Acc06059.1	1.33	0.38	ATMES1, MES1	0	0
+kiwi	Acc09534.1	0.89	7.8		0	0
+kiwi	Acc32510.1	10.61	4.64	CMT3	0	0
+kiwi	Acc21309.1	1.39	0.29	ATGA2OX2, GA2OX2	0	0
+kiwi	Acc21983.1	1.07	0.35		0	0
+kiwi	Acc14254.1	1.57	0.5		0	0
+kiwi	Acc16643.1	1.61	0.64		0	0
+kiwi	Acc31877.1	1.91	0.6	CYP79B2	0	0
+kiwi	Acc33420.1	4.57	2.41	FRS5	0	0
+kiwi	Acc20272.1	4.92	1.96		0	0
+kiwi	Acc09737.1	11.29	6.43		0	0
+kiwi	Acc10467.1	1.3	0.37		0	0
+kiwi	Acc25212.1	4.5	2.14		0	0
+kiwi	Acc32722.1	1.37	0.46		0	0
+kiwi	Acc05523.1	2.65	0.95		0	0
+kiwi	Acc21202.1	2.23	0.7	SULTR1;3	0	0
+kiwi	Acc03044.1	1.63	0.59		0	0
+kiwi	Acc02403.1	1.09	0.26		0	0
+kiwi	Acc19680.1	4.47	1.72	CKI1	0	0
+kiwi	Acc22934.1	18.7	10.88		0	0
+kiwi	Acc28557.1	2.54	1.07		0	0
+kiwi	Acc30705.1	3.16	1.49		0	0
+kiwi	Acc31874.1	1.04	0.31	CYP71B35	0	0
+kiwi	Acc22629.1	1.2	0.36		0	0
+kiwi	Acc18607.1	38.84	21.21	CRK8	0	0
+kiwi	Acc28223.1	2.33	0.92		0	0
+kiwi	Acc01300.1	6.85	4.07	ATOMT1, OMT1	0	0
+kiwi	Acc21739.1	1.93	0.82		0	0
+kiwi	Acc26823.1	6.8	1.55	TSO2, ATTSO2	0	0
+kiwi	Acc28802.1	4.61	2.45	ATMRP14, MRP14, ABCC10	0	0
+kiwi	Acc30924.1	1.17	0.31	TAC1	0	0
+kiwi	Acc32284.1	7.15	3.8	AtRLP1, RLP1	0	0
+kiwi	Acc33533.1	12.24	6.35		0	0
+kiwi	Acc09655.1	3.81	1.81		0	0
+kiwi	Acc16157.1	1.64	0.71		0	0
+kiwi	Acc06356.1	1.8	0.65		0	0
+kiwi	Acc08635.1	9.37	5.48		0	0
+kiwi	Acc16802.1	3.18	1.34		0	0
+kiwi	Acc17599.1	2.73	0.89	ATGLR2.8, GLR2.8	0	0
+kiwi	Acc19493.1	2.76	1.18		0	0
+kiwi	Acc15833.1	1.1	0.31	OTP84	0	0
+kiwi	Acc18550.1	5.82	3.16	AtRLP1, RLP1	0	0
+kiwi	Acc24726.1	5.5	2.92		0	0
+kiwi	Acc32890.1	8.94	5.27		0	0
+kiwi	Acc00507.1	6.2	2.97		0	0
+kiwi	Acc08006.1	3.22	1.55	PAD4, ATPAD4	0	0
+kiwi	Acc09652.1	2.88	1.21		0	0
+kiwi	Acc18523.1	1.25	0.46	FLS2	0	0
+kiwi	Acc00950.1	1.38	0.24		0	0
+kiwi	Acc05289.1	3.39	1.65		0	0
+kiwi	Acc19054.1	1.65	0.58		0	0
+kiwi	Acc19150.1	2.44	0.91	SD2-5	0	0
+kiwi	Acc33502.1	3.21	1.29		0	0
+kiwi	Acc23755.1	3.1	1.26		0	0
+kiwi	Acc33278.1	8.72	3.58		0	0
+kiwi	Acc23743.2	7.05	4.32	ATGLR2.7, GLR2.7	0	0
+kiwi	Acc04973.1	4.23	2.2		0	0
+kiwi	Acc06038.1	1.36	0.46	HSF4, HSFB1, AT-HSFB1, ATHSF4	0	0
+kiwi	Acc31789.1	1.35	0.47	GYRB3	0	0
+kiwi	Acc24077.1	2.78	1.27	WAK2	0	0
+kiwi	Acc31517.1	45.95	24.5		0	0
+kiwi	Acc21101.1	1.14	0.47	UGT73B3	0	0
+kiwi	Acc23674.1	3.41	1.53	JAC1	0	0
+kiwi	Acc13107.1	3.1	1.13		0	0
+kiwi	Acc28344.1	49.8	27.89		0	0
+kiwi	Acc18899.1	1.3	0.39	PUB17, ATPUB17	0	0
+kiwi	Acc10060.1	3.02	1.53	AtRLP15, RLP15	0	0
+kiwi	Acc16189.1	1.36	0.47	RLK1	0	0
+kiwi	Acc12456.1	2.58	1.19	PLDALPHA1, PLD	0	0
+kiwi	Acc01351.1	2.15	0.84		0	0
+kiwi	Acc32436.1	1.61	0.52		0	0
+kiwi	Acc21010.1	4.31	2.23		0	0
+kiwi	Acc23858.1	4.15	1.81		0	0
+kiwi	Acc29581.1	4.14	26.82	ATNAP3, AtSTAR1, NAP3	0	0
+kiwi	Acc21323.1	2.28	0.92	ATCHX15, CHX15	0	0
+kiwi	Acc12345.1	6.53	3.6		0	0
+kiwi	Acc16953.1	2.35	1.13	APX2, APX1B	0	0
+kiwi	Acc21398.1	2.62	1.32		0	0
+kiwi	Acc27443.1	4.25	1.61		0	0
+kiwi	Acc19343.1	5.64	2.36		0	0
+kiwi	Acc19746.1	46.15	25.53		0	0
+kiwi	Acc28412.1	38.43	22.28	SMT1, CPH	0	0
+kiwi	Acc32636.1	2.06	0.8	ATTPS-CIN, TPS-CIN	0	0
+kiwi	Acc22571.1	1.35	0.4		0	0
+kiwi	Acc20822.1	5.01	2.13	DCL2	0	0
+kiwi	Acc21521.1	11.25	7.01		0	0
+kiwi	Acc04137.1	3.82	1.98	MMP	0	0
+kiwi	Acc32413.1	3.41	1.95		0	0
+kiwi	Acc04786.1	1.43	0.47		0	0
+kiwi	Acc06827.1	7.15	4.2		0	0
+kiwi	Acc09812.1	1.72	0.73	GLP1, ATGER1, GER1	0	0
+kiwi	Acc04642.1	4.03	2.32		0	0
+kiwi	Acc13761.1	1.46	0.67		0	0
+kiwi	Acc05988.1	1.82	0.71		0	0
+kiwi	Acc15801.1	1.01	0.32		0	0
+kiwi	Acc06352.1	3.07	1.24	ATXR1, SDG35	0	0
+kiwi	Acc08145.1	2.9	1.37	CYP96A10	0	0
+kiwi	Acc09739.1	2.02	0.95		0	0
+kiwi	Acc13698.1	1.36	0.49		0	0
+kiwi	Acc16243.1	2.72	1.29		0	0
+kiwi	Acc24522.1	1.12	0.35	ATGA2OX4, ATGA2OX6, DTA1, GA2OX6	0	0
+kiwi	Acc32146.1	1.96	0.87		0	0
+kiwi	Acc33541.1	2.53	0.78		0	0
+kiwi	Acc13356.1	1.84	0.61	PUB24	0	0
+kiwi	Acc03042.1	1.43	0.46	WNK5	0	0
+kiwi	Acc09940.1	2.06	0.88	BAS1, CYP734A1, CYP72B1	0	0
+kiwi	Acc20688.1	2.21	1.13	TCP3	0	0
+kiwi	Acc18867.1	2.33	1.01		0	0
+kiwi	Acc01557.1	4.15	2.11		0	0
+kiwi	Acc02163.1	1.84	0.72		0	0
+kiwi	Acc11554.1	3.39	1.93		0	0
+kiwi	Acc19411.1	2.13	0.8		0	0
+kiwi	Acc29159.1	1.53	0.52	YUC4	0	0
+kiwi	Acc02195.1	51.36	28.67		0	0
+kiwi	Acc06618.1	3.8	1.95	LPA66	0	0
+kiwi	Acc25709.1	26.59	11.17		0	0
+kiwi	Acc03347.1	2.58	1.23		0	0
+kiwi	Acc03815.1	4.18	1.77		0	0
+kiwi	Acc11685.1	2.28	1.07	RLK1	0	0
+kiwi	Acc10017.1	3.33	1.71	ATGLR2.7, GLR2.7	0	0
+kiwi	Acc13496.1	1.11	0.36		0	0
+kiwi	Acc19431.1	3.04	1.34	PDF2	0	0
+kiwi	Acc33613.1	1.68	0.66	CRK29	0	0
+kiwi	Acc21360.1	1.44	0.62		0	0
+kiwi	Acc30419.1	2.15	1.05		0	0
+kiwi	Acc19858.1	4.45	2.23		0	0
+kiwi	Acc25789.1	3.14	1.46		0	0
+kiwi	Acc30446.1	1.27	0.46		0	0
+kiwi	Acc19634.1	1.34	0.57	MGP	0	0
+kiwi	Acc29312.1	6.69	3.03	ATRPA70B, RPA70B	0	0
+kiwi	Acc11323.1	1.12	0.31		0	0
+kiwi	Acc12428.1	8.21	3.89	ATBRCA1, BRCA1	0	0
+kiwi	Acc10095.1	3.22	1.6		0	0
+kiwi	Acc00128.1	1.77	0.83		0	0
+kiwi	Acc03298.1	10.55	58.98	ATPMEPCRF, PMEPCRF	0	0
+kiwi	Acc09831.1	2.88	1.62	RPS2	0	0
+kiwi	Acc03323.1	6.9	4.07		0	0
+kiwi	Acc11994.1	1.39	0.39	DUT1	0	0
+kiwi	Acc12710.1	1.91	0.82		0	0
+kiwi	Acc20597.1	1.13	0.43	B120	0	0
+kiwi	Acc30063.1	3.83	2.1		0	0
+kiwi	Acc07241.1	1.3	0.38	UCC1	0	0
+kiwi	Acc18015.1	4.29	2.03		0	0
+kiwi	Acc33656.1	0.55	4.66	LTP3	0	0
+kiwi	Acc04514.1	1.18	0.38		0	0
+kiwi	Acc08636.1	4.26	2.74		0	0
+kiwi	Acc28628.1	4.46	2.43		0	0
+kiwi	Acc25329.1	2.52	1.25	AtRLP12, RLP12	0	0
+kiwi	Acc05384.1	1.26	0.49		0	0
+kiwi	Acc04412.1	5.14	3.22		0	0
+kiwi	Acc16281.1	3.62	1.87	ATTOC120, TOC120	0	0
+kiwi	Acc17307.1	1.15	0.5		0	0
+kiwi	Acc20077.1	16.26	9.86	RPS4	0	0
+kiwi	Acc20235.1	1.19	0.36		0	0
+kiwi	Acc27062.1	3.5	1.87	PGP11	0	0
+kiwi	Acc31875.1	2.44	0.9	CYP79A2	0	0
+kiwi	Acc04990.1	1.19	0.4		0	0
+kiwi	Acc13157.1	2.79	1.39		0	0
+kiwi	Acc01412.1	1.89	0.81	CYP715A1	0	0
+kiwi	Acc05462.1	1.8	0.58	SVL5	0	0
+kiwi	Acc14082.1	3.73	2.19	AGO7, ZIP	0	0
+kiwi	Acc18080.1	3.2	1.24	CYP71A26	0	0
+kiwi	Acc29175.1	1.8	0.82		0	0
+kiwi	Acc19470.1	3.12	1.51		0	0
+kiwi	Acc18257.2	2.68	1.21		0	0
+kiwi	Acc19282.1	3.27	1.64		0	0
+kiwi	Acc07300.1	2.02	1.03		0	0
+kiwi	Acc19469.1	2.14	1.2	TPS21	0	0
+kiwi	Acc16807.1	4.04	2.03	WAK2	0	0
+kiwi	Acc10519.1	3.92	1.97		0	0
+kiwi	Acc18081.1	1.26	0.18	CYP71A22	0	0
+kiwi	Acc29174.1	1.3	0.5	ATAMT2, AMT2;1, AMT2	0	0
+kiwi	Acc31320.1	1.7	0.84		0	0
+kiwi	Acc32344.1	2.03	1.12	SCL14, ATGRAS2, GRAS2	0	0
+kiwi	Acc18158.1	1.7	0.64		0	0
+kiwi	Acc17741.1	0.1	2.75		0	0
+kiwi	Acc01923.1	2.61	1.06	FER	0	0
+kiwi	Acc10592.1	2.2	1.19		0	0
+kiwi	Acc15463.1	2.58	1.47	OTP82	0	0
+kiwi	Acc02987.1	2.3	0.97		0	0
+kiwi	Acc06916.1	1.26	0.51		0	0
+kiwi	Acc16001.1	2.43	1.12		0	0
+kiwi	Acc16854.1	3.09	1.83		0	0
+kiwi	Acc17596.1	2.18	1.04	ATGLR2.8, GLR2.8	0	0
+kiwi	Acc26900.1	2.01	0.9		0	0
+kiwi	Acc28858.1	1.9	0.58	IQD22	0	0
+kiwi	Acc06113.1	1.93	1.01	WAKL10, ATWAKL10	0	0
+kiwi	Acc10089.1	3.01	1.7		0	0
+kiwi	Acc30737.1	3.23	1.47		0	0
+kiwi	Acc04763.1	2.98	0.96	CYCA3;2	0	0
+kiwi	Acc04744.1	1.64	0.78	UGT73B4	0	0
+kiwi	Acc06355.1	1.21	0.43		0	0
+kiwi	Acc14259.1	1.74	0.88		0	0
+kiwi	Acc21115.1	2.15	0.82		0	0
+kiwi	Acc31844.1	106.61	52.49	CRK8	0	0
+kiwi	Acc16377.1	4.91	2.89	ATMRP14, MRP14, ABCC10	0	0
+kiwi	Acc30792.1	1.33	0.58	SCL3, SCL-3	0	0
+kiwi	Acc19664.1	3.45	1.94	RPP13	0	0
+kiwi	Acc08803.1	3.7	1.65		0	0
+kiwi	Acc00747.1	1.39	0.52		0	0
+kiwi	Acc17033.1	4.07	2.37		0	0
+kiwi	Acc25257.1	2.18	0.88		0	0
+kiwi	Acc25621.1	8.36	4.37	ATPT2, PHT1;4	0	0
+kiwi	Acc26932.1	1.53	0.6		0	0
+kiwi	Acc27957.1	1.18	0.43		0	0
+kiwi	Acc28859.1	1.08	0.43	HAP2, GCS1	0	0
+kiwi	Acc08016.1	4.46	2.51		0	0
+kiwi	Acc08349.1	1.8	0.8	LAC6	0	0
+kiwi	Acc25375.1	2.8	1.69		0	0
+kiwi	Acc13534.1	2.23	1.12		0	0
+kiwi	Acc03461.1	2.75	1.23		0	0
+kiwi	Acc12397.1	2.95	1.47	AHK5, CKI2, HK5	0	0
+kiwi	Acc02259.1	109.2	54.88	CRK8	0	0
+kiwi	Acc20979.1	1.59	0.8		0	0
+kiwi	Acc32414.1	2.13	1	WAKL4	0	0
+kiwi	Acc07389.1	8.81	4.78		0	0
+kiwi	Acc29261.1	2.23	0.85		0	0
+kiwi	Acc26057.1	6.01	3.14	Fh5, ATFH5	0	0
+kiwi	Acc10380.1	5.83	3.56	MAPKKK5	0	0
+kiwi	Acc13951.1	3.36	1.6		0	0
+kiwi	Acc32062.1	1.31	0.5	PUB23	0	0
+kiwi	Acc16812.1	1.51	0.69		0	0
+kiwi	Acc01183.1	3.26	1.84		0	0
+kiwi	Acc21168.1	4.17	2.41	LRR XI-23, RLK7	0	0
+kiwi	Acc22633.1	1.33	0.45		0	0
+kiwi	Acc19734.1	1.12	0.36	NST1, ANAC043	0	0
+kiwi	Acc00937.1	1.27	0.46		0	0
+kiwi	Acc08651.1	1.35	0.44		0	0
+kiwi	Acc13584.1	3.11	1.65	AtRLP6, RLP6	0	0
+kiwi	Acc30947.1	1.37	0.62		0	0
+kiwi	Acc00522.1	1.84	0.79	HHP4	0	0
+kiwi	Acc29493.1	1.41	0.59	CYP707A1	0	0
+kiwi	Acc15722.1	1.14	0.46	CBF2, DREB1C, FTQ4, ATCBF2	0	0
+kiwi	Acc16608.1	1.04	0.37	XTR7, XTH15	0	0
+kiwi	Acc21016.1	1.21	0.48		0	0
+kiwi	Acc24394.1	4.29	2.33	AAE1	0	0
+kiwi	Acc28836.1	2.72	1.36	GL3, MYC6.2	0	0
+kiwi	Acc11484.1	2.2	1.05		0	0
+kiwi	Acc18720.1	2.36	1.25	ORF158	0	0
+kiwi	Acc19434.1	2.79	1.48		0	0
+kiwi	Acc23699.1	2.46	1.2	CYP82C4	0	0
+kiwi	Acc15800.1	1.64	0.86		0	0
+kiwi	Acc20968.1	1.68	0.88	WRKY14, ATWRKY14, AR411	0	0
+kiwi	Acc22516.1	1.7	0.87	YUC4	0	0
+kiwi	Acc24997.1	9.11	4.43	ATEHD2, EHD2	0	0
+kiwi	Acc25945.1	2.99	1.23		0	0
+kiwi	Acc29479.1	1.36	0.58		0	0
+kiwi	Acc14589.1	1.22	0.47	RAP2.11	0	0
+kiwi	Acc18889.1	1.56	0.64	SD2-5	0	0
+kiwi	Acc19773.1	1.29	0.43	emb1703	0	0
+kiwi	Acc20832.1	3.05	1.17	PDR6, ATPDR6	0	0
+kiwi	Acc21828.1	2.05	1.01		0	0
+kiwi	Acc24867.1	1.36	0.57		0	0
+kiwi	Acc31552.1	1.19	0.48		0	0
+kiwi	Acc19149.1	2.12	0.7	CYP71B36	0	0
+kiwi	Acc20782.1	2.33	1		0	0
+kiwi	Acc27225.1	1.52	0.72		0	0
+kiwi	Acc28028.1	1.19	0.51	CYP76C2	0	0
+kiwi	Acc08821.1	2.85	1.49		0	0
+kiwi	Acc24570.1	1.22	0.36		0	0
+kiwi	Acc20421.1	1.2	0.46	AtMYB9, MYB9	0	0
+kiwi	Acc25259.1	2.02	0.97		0	0
+kiwi	Acc29831.1	1.54	0.68		0	0
+kiwi	Acc02832.1	5.54	30.62	CZF1, ZFAR1, SZF2, ATSZF2	0	0
+kiwi	Acc09901.1	1.18	0.42		0	0
+kiwi	Acc23026.1	2.1	1.1		0	0
+kiwi	Acc02041.1	1.21	0.37	ATPTR3, PTR3	0	0
+kiwi	Acc30489.1	1.48	0.56	sks12	0	0
+kiwi	Acc17023.1	1.01	0.4		0	0
+kiwi	Acc18919.1	2.22	1.38		0	0
+kiwi	Acc23744.1	3.68	2.27	ATGLR2.7, GLR2.7	0	0
+kiwi	Acc31577.1	2.54	0.94	ATPMEPCRB	0	0
+kiwi	Acc15927.1	107.29	57.67		0	0
+kiwi	Acc24767.1	1.6	0.42		0	0
+kiwi	Acc01434.1	2.2	0.98		0	0
+kiwi	Acc03457.1	1.66	0.79	CYP715A1	0	0
+kiwi	Acc28288.1	3.45	1.62		0	0
+kiwi	Acc12378.1	2.51	1.38		0	0
+kiwi	Acc22989.1	3.54	1.74		0	0
+kiwi	Acc06736.1	6.78	4.05	RSW4, AESP, ESP	0	0
+kiwi	Acc16652.1	2.86	1.3		0	0
+kiwi	Acc16928.1	1.13	0.32		0	0
+kiwi	Acc26296.1	2.89	1.75	CYP71A22	0	0
+kiwi	Acc00808.1	60.96	37.44		0	0
+kiwi	Acc01281.1	2.76	1.78		0	0
+kiwi	Acc11016.1	1.43	0.58	RPP13	0	0
+kiwi	Acc18674.1	4.37	2.57		0	0
+kiwi	Acc20515.1	1.6	0.73		0	0
+kiwi	Acc27465.1	1.38	0.4		0	0
+kiwi	Acc19277.1	1.99	0.75		0	0
+kiwi	Acc00829.1	7.62	4.83		0	0
+kiwi	Acc17656.1	7.25	43.57	TT7, CYP75B1, D501	0	0
+kiwi	Acc19460.1	1.8	1.01		0	0
+kiwi	Acc20278.1	1.56	0.69	HAK5, ATHAK5	0	0
+kiwi	Acc20281.1	1.73	0.65	PHT3, ATPT4, PHT1;3	0	0
+kiwi	Acc21382.1	3.1	1.96		0	0
+kiwi	Acc32231.1	2.18	1		0	0
+kiwi	Acc33485.1	1.19	0.42	ATMYB63, MYB63	0	0
+kiwi	Acc15384.1	2.78	1.48		0	0
+kiwi	Acc01683.1	1.74	0.81	TRAB11F, ATRABA5C, ARA-4, RABA5C ...  357	0	0
+kiwi	Acc01459.1	0.21	2.57		0	0
+kiwi	Acc24599.1	2.93	1.61		0	0
+kiwi	Acc08654.1	2.55	1.22		0	0
+kiwi	Acc23783.1	2.22	1.08		0	0
+kiwi	Acc00812.1	1.72	0.73	TBL19	0	0
+kiwi	Acc23585.1	2.07	0.9	CYP83B1, SUR2, RNT1, RED1, ATR4	0	0
+kiwi	Acc30672.1	2.89	0.64	ATMYB35, TDF1	0	0
+kiwi	Acc19290.1	5.4	3.08	BRL1	0	0
+kiwi	Acc31543.1	1.83	0.92		0	0
+kiwi	Acc18446.1	1.19	0.36		0	0
+kiwi	Acc19700.1	2.15	1.18		0	0
+kiwi	Acc23200.1	1.57	0.55	ZLL	0	0
+kiwi	Acc31243.1	1.59	0.84	ATSBT5.4, SBT5.4	0	0
+kiwi	Acc33324.1	4.85	2.35	CPK33	0	0
+kiwi	Acc11544.2	2.44	1.32		0	0
+kiwi	Acc32635.1	1.69	0.64		0	0
+kiwi	Acc02759.1	1.08	0.38		0	0
+kiwi	Acc03921.1	1.86	1.14		0	0
+kiwi	Acc17432.1	1.15	0.46	CRK20	0	0
+kiwi	Acc08842.1	2.83	1.48		0	0
+kiwi	Acc31973.1	1.43	0.71		0	0
+kiwi	Acc09520.1	1.93	0.81	XTR6, XTH23	0	0
+kiwi	Acc31544.1	1.43	0.72	RGL2	0	0
+kiwi	Acc00749.1	3.71	1.96		0	0
+kiwi	Acc18985.1	3.28	1.9		0	0
+kiwi	Acc29172.1	11.32	4.75	TCX2, ATTCX2	0	0
+kiwi	Acc12262.1	1.14	0.42	MKS1	0	0
+kiwi	Acc13355.1	1.06	0.43	PUB23	0	0
+kiwi	Acc11630.1	1.3	0.55	LAC14	0	0
+kiwi	Acc20786.1	1.83	1.19	POK2	0	0
+kiwi	Acc19887.1	1.34	0.56		0	0
+kiwi	Acc26652.1	1.6	0.98	TCP5	0	0
+kiwi	Acc18731.1	1.81	0.85		0	0
+kiwi	Acc19867.1	4.45	2.89		0	0
+kiwi	Acc01255.1	1.41	0.76	CYP96A10	0	0
+kiwi	Acc20808.1	1.13	0.56		0	0
+kiwi	Acc04081.1	3.42	1.96		0	0
+kiwi	Acc16028.1	3.11	1.12		0	0
+kiwi	Acc30466.1	1.21	0.47	RAP2.11	0	0
+kiwi	Acc04135.1	3.51	1.82		0	0
+kiwi	Acc24071.1	1.5	0.54		0	0
+kiwi	Acc27872.1	2.22	0.87	CYP716A1	0	0
+kiwi	Acc02118.1	2.71	1.19	CYP76G1	0	0
+kiwi	Acc13452.1	1.12	0.5	HRD	0	0
+kiwi	Acc23766.1	1.13	0.52		0	0
+kiwi	Acc19114.1	2.02	1.03	ATGLR2.2, GLR2.2	0	0
+kiwi	Acc14662.1	4.62	2.32	ATBARD1, BARD1, ROW1	0	0
+kiwi	Acc15716.1	1.42	0.86		0	0
+kiwi	Acc32319.1	1.22	0.54		0	0
+kiwi	Acc11587.1	3.81	2.89		0	0
+kiwi	Acc13287.1	2.08	1.1	CDF2	0	0
+kiwi	Acc04228.1	1.94	1.01		0	0
+kiwi	Acc05127.1	3.43	2.21		0	0
+kiwi	Acc31103.1	1.42	0.49		0	0
+kiwi	Acc00627.1	6.12	3.33		0	0
+kiwi	Acc04488.1	3.93	2.13		0	0
+kiwi	Acc04824.1	4.54	2.53		0	0
+kiwi	Acc11325.1	3.14	1.61		0	0
+kiwi	Acc32470.1	1.58	0.75	PLT2	0	0
+kiwi	Acc04295.1	1.03	0.4		0	0
+kiwi	Acc14673.1	4.01	2.48		0	0
+kiwi	Acc09736.1	1.9	1.07	SLAH1	0	0
+kiwi	Acc02263.1	3.39	1.66		0	0
+kiwi	Acc01138.1	1.44	0.6		0	0
+kiwi	Acc06298.1	2.38	1.31	NRT1.7	0	0
+kiwi	Acc20204.1	2.97	1.73	EMB2758	0	0
+kiwi	Acc09287.1	4.15	3.02		0	0
+kiwi	Acc03770.1	1.37	0.65	ATPK7	0	0
+kiwi	Acc08829.1	3.35	1.55		0	0
+kiwi	Acc22622.1	4.22	2.17		0	0
+kiwi	Acc27885.1	2.13	1.12	PHT3, ATPT4, PHT1;3	0	0
+kiwi	Acc23786.1	1.05	0.39	CYP81D8	0	0
+kiwi	Acc32715.1	3.98	2.48	ATEXO70C1, EXO70C1	0	0
+kiwi	Acc16460.1	3.12	2.16	ATCDT1A, CDT1A, CDT1	0	0
+kiwi	Acc17748.1	1.12	0.5	DTA4	0	0
+kiwi	Acc24986.1	1.01	0.3		0	0
+kiwi	Acc04862.1	2.1	0.93		0	0
+kiwi	Acc21114.1	1.45	0.66	PUB26	0	0
+kiwi	Acc08561.1	1.9	0.92		0	0
+kiwi	Acc19794.1	3.01	1.26	TBL25	0	0
+kiwi	Acc28585.1	2.48	1.32	YUC6	0	0
+kiwi	Acc18516.1	2.02	0.43		0	0
+kiwi	Acc32625.1	3.43	20.33		0	0
+kiwi	Acc27426.1	4.72	3.46		0	0
+kiwi	Acc09649.1	1.21	0.53		0	0
+kiwi	Acc13405.1	4.7	3.25		0	0
+kiwi	Acc33099.1	7.75	4.17		0	0
+kiwi	Acc13118.1	1.47	0.69	ZLL	0	0
+kiwi	Acc13463.1	1.7	0.96	TZP	0	0
+kiwi	Acc01931.1	2.33	1.25	FER	0	0
+kiwi	Acc12267.1	3	1.77	ATGH9A2, KOR2	0	0
+kiwi	Acc04090.1	2.07	0.74		0	0
+kiwi	Acc06058.1	1.77	0.78	CYP76C2	0	0
+kiwi	Acc02319.1	2.19	0.93	UGT88A1	0	0
+kiwi	Acc24204.1	1.33	0.79		0	0
+kiwi	Acc26190.1	1.22	0.63	SD2-5	0	0
+kiwi	Acc18627.1	3.18	2.28	DOT4	0	0
+kiwi	Acc19738.1	1.64	0.85	FRS5	0	0
+kiwi	Acc30852.1	1.23	0.58	CRK25	0	0
+kiwi	Acc18592.1	2.15	1.01		0	0
+kiwi	Acc14251.1	1.36	0.7		0	0
+kiwi	Acc28313.1	1.86	0.84		0	0
+kiwi	Acc29973.1	1.52	0.79	ATPTR3, PTR3	0	0
+kiwi	Acc18077.1	3.53	1.53		0	0
+kiwi	Acc16490.1	4.71	3.25		0	0
+kiwi	Acc11309.1	1.37	0.7		0	0
+kiwi	Acc25493.1	1.69	0.75		0	0
+kiwi	Acc20215.1	14.62	111.63	ATCYSC1, ARATH;BSAS3;1, CYSC1	0	0
+kiwi	Acc12240.1	2.57	1.54		0	0
+kiwi	Acc19538.1	4.69	22.84	atofp11, OFP11	0	0
+kiwi	Acc22653.1	4.03	2.76		0	0
+kiwi	Acc31510.1	2.06	1.05		0	0
+kiwi	Acc31716.1	9.57	6		0	0
+kiwi	Acc09654.1	2.87	1.71		0	0
+kiwi	Acc27283.1	1.21	0.6	ATIPT5, IPT5	0	0
+kiwi	Acc25324.1	1.74	0.64		0	0
+kiwi	Acc03401.1	1.04	0.42		0	0
+kiwi	Acc15657.1	2.41	1.6	BEL1	0	0
+kiwi	Acc11826.1	13.24	7.23		0	0
+kiwi	Acc02334.1	1.26	0.69	ANAC100, ATNAC5, NAC100	0	0
+kiwi	Acc07299.1	1.34	0.77	STH2	0	0
+kiwi	Acc23985.1	2.23	1.19	TT10, LAC15, ATLAC15	0	0
+kiwi	Acc06946.1	1.32	0.52	ARA12	0	0
+kiwi	Acc05044.1	3.3	1.75		0	0
+kiwi	Acc15540.1	1.43	0.58		0	0
+kiwi	Acc23789.1	1.29	0.67		0	0
+kiwi	Acc14237.1	1.37	0.58	TEL1	0	0
+kiwi	Acc15287.1	6.49	3.9		0	0
+kiwi	Acc27873.1	5.17	2.59		0	0
+kiwi	Acc31723.1	2	10.3	ATCLH2, CLH2	0	0
+kiwi	Acc14653.1	1.36	0.59	SCR, SGR1	0	0
+kiwi	Acc26607.1	1.64	0.87		0	0
+kiwi	Acc32006.1	1.94	1.15		0	0
+persimmon	Contig214180	1.01	0	class-I bZIP-Homeodomain transcription factor	1	1
+persimmon	AT5G64060	16.27	10.07	anac103, NAC103 | NAC domain containing	1	0
+persimmon	AT3G57040	4.73	3.15	ARR9, ATRR4 | response regulator 9	1	0
+persimmon	AT5G15350	43.71	48.46	ENODL17, AtENODL17 | early nodulin-like protein	1	0
+persimmon	AT2G13690	25.64	25.58	BTB/POZ domain-containing protein	1	0
+persimmon	AT1G21790	9.44	7.44	TRAM, LAG1 and CLN8 (TLC) lipid-sensing domain	1	0
+persimmon	AT5G63960	8.47	7.26	DNA binding;nucleotide binding	1	0
+persimmon	AT2G39435	3.5	2.88	phosphatidylinositol N-acetyglucosaminlytransferase subunit P-like protein	1	0
+persimmon	ATMG00160	76.48	70.96	COX2 | cytochrome oxidase 2	1	0
+persimmon	AT2G39450	27.88	26.07	MTP11, ATMTP11 | Cation efflux family	1	0
+persimmon	AT5G13550	2.73	0.07	SULTR4;1 | sulfate transporter 4.1	1	0
+persimmon	AT4G19210	35.97	31.98	ATRLI2, RLI2 | RNAse l inhibitor protein	1	0
+persimmon	AT2G13680	2.47	2.61	CALS5, GLS2, ATGSL02 | callose synthase	1	0
+persimmon	AT5G64600	9.7	9.03	O-fucosyltransferase family protein	1	0
+persimmon	AT1G77600	9.68	8	ARM repeat superfamily protein	1	0
+persimmon	contig42779	10.03	8.72	NA	1	0
+persimmon	contig60102	3.03	2.73	NA	1	0
+persimmon	contig40011	2.74	0.31	NA	1	0
+persimmon	contig60218	7.1	8.23	NA	1	0
+persimmon	contig77762	7.2	0.71	NA	1	0
+persimmon	FE-Contig1245	11.08	12.35	NA	1	0
+persimmon	FE-Contig392	38.03	46.25	NA	1	0
+persimmon	Contig333146	28.52	0.2	Transposable element	0	0
+persimmon	Contig413090	9.31	0	NA	0	0
+persimmon	Contig202197	5.35	0.12	Transposase	0	0
+persimmon	Contig173884	3.17	0.02	NA	0	0
+persimmon	Contig318451	7.29	18.89	NA	0	0
+persimmon	Contig134463	3.52	0	Transposable element-like repetitiive	0	0
+persimmon	Contig314662	10.75	25.21	NA	0	0
+persimmon	Contig297812	5.32	9.84	Transporter protein	0	0
+persimmon	Contig350312	13.4	0.16	NA	0	0
+persimmon	Contig217628	5.74	0.21	Cation efflux family	0	0
+persimmon	Contig300284	4	7.74	phosphatidylinositol-4-phosphate kinase family	0	0
+persimmon	Contig316125	1.1	2.56	NA	0	0
+persimmon	Contig313207	9.89	21.43	germin-like protein	0	0
+persimmon	Contig398696	11.29	22.34	NA	0	0
+persimmon	Contig345837	2.51	0.22	NA	0	0
+persimmon	Contig240110	0.24	3.54	NA	0	0
+persimmon	Contig325568	12.23	5.24	NA	0	0
+persimmon	Contig219578	8.83	2.77	NA	0	0
+persimmon	Contig211185	0.76	2.08	cysteine-rich RLK	0	0
+persimmon	Contig191907	15.37	5.79	NA	0	0
+persimmon	Contig318380	10.07	22.25	NA	0	0
+persimmon	Contig174064	2.73	0.07	sulfate transporter	0	0
+persimmon	Contig391186	0.97	2.57	NA	0	0
+persimmon	Contig389572	26.29	46.07	class-I bZIP-Homeodomain transcription factor	0	1
+persimmon	Contig400850	1.4	3.28	NA	0	0
+persimmon	Contig229555	17.67	31.27	NA	0	0
+persimmon	Contig225969	2.78	0.06	NA	0	0
+persimmon	Contig317713	63.39	47.54	Nascent polypeptide-associated	0	0
+persimmon	Contig282802	7.33	0.71	NA	0	0
+persimmon	Contig336766	4.62	1.29	NA	0	0
+persimmon	Contig187043	0.58	2.7	NA	0	0
+persimmon	Contig300341	3.72	5.57	ATP synthase subunit beta	0	0
+persimmon	Contig188950	2.37	4.14	NA	0	0
+persimmon	Contig247290	0.52	2.59	NA	0	0
+persimmon	Contig312712	8.16	14.76	flavin-dependent monooxygenase	0	0
+persimmon	Contig317018	9.7	6.23	Transposable element	0	0
+persimmon	Contig319996	31.95	46.71	RNA polymerase subunit alpha	0	0
+persimmon	Contig231235	0.93	3.28	NA	0	0
+persimmon	Contig230861	4.58	13.6	NA	0	0
+persimmon	Contig419223	2.22	5.91	NA	0	0
+persimmon	Contig192369	2.1	4.57	NA	0	0
+persimmon	Contig298817	6.29	3.99	NA	0	0
+persimmon	Contig196072	20.85	6.52	NA	0	0
+persimmon	Contig190429	3.4	2.28	zinc ion binding	0	0
+persimmon	Contig380632	12.64	22.39	ribosomal protein S11	0	0
+persimmon	Contig192064	3.34	6.42	phosphatidylinositol-4-phosphate 5-kinase family	0	0
+persimmon	Contig286080	4.52	10.65	NA	0	0
+persimmon	Contig285237	18.39	29	NA	0	0
+persimmon	Contig392488	2.13	0.82	NA	0	0
+persimmon	Contig229020	38.53	50.9	NA	0	0
+persimmon	Contig283015	2.96	0.1	NA	0	0
+persimmon	Contig255606	45.63	30.37	NA	0	0
+persimmon	Contig201262	2.16	0.17	NA	0	0
+persimmon	Contig363519	3.26	0.6	NA	0	0
+persimmon	Contig319920	0.83	3.45	NA	0	0
+persimmon	Contig274121	55.94	87.31	Ycf1 protein	0	0
+persimmon	Contig312848	27.07	19.31	cellulose synthase	0	0
+persimmon	Contig265756	13.15	19.26	ribosomal protein	0	0
+persimmon	Contig115502	2.57	0.98	Putative membrane lipoprotein	0	0
+persimmon	Contig152287	0.56	3.22	NA	0	0
+persimmon	Contig107520	3.55	7.19	Plant protein 1589 of unknown function	0	0
